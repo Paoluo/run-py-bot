@@ -1,0 +1,4 @@
+Repository da cui è stato clonato. Può girare su Python Anywhere o in locale ed accedere al bot su Telegram
+
+https://github.com/Python-World/Python_and_the_Web/tree/master/Scripts/Bots/runPython_bot
+https://github.com/aahnik/run-py-bot
