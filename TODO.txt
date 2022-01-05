@@ -2,3 +2,35 @@ Repository da cui è stato clonato. Può girare su Python Anywhere o in locale e
 
 https://github.com/Python-World/Python_and_the_Web/tree/master/Scripts/Bots/runPython_bot
 https://github.com/aahnik/run-py-bot
+
+https://github.com/aiogram/aiogram/tree/dev-2.x/examples
+
+https://core.telegram.org/bots
+
+apt-get install python3-venv --fix-missing  # dava problemi nel preperire un pacchetto agiornato per la 3.9
+python -m venv .venv # create
+source .venv/bin/activate # activate (unix)
+
+
+Dal chatbot di Telegram : @BotFather
+
+/newbot
+
+MyPyBot   #nome del nuovo bot
+MyPyPLBot  #Surname
+
+url: t.me/MyPyPLBot
+
+HTTP API: vedi chat BotFather ( incluso in file .env ignorato da GIT
+
+
+--  Replicato come Bot base sotto "Binance-api-step-by-step-guide-master"
+
+
+-- Switch Inline messaging on Chat Bot
+https://core.telegram.org/bots/inline
+
+
+TODO:
+ - Introdurre nuove funzionalità nel Bot
+ - Completare introduzione del comando TRANSLATE
